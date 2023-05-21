@@ -60,6 +60,8 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+guest_book_project/__pycache__
+guest_book_app/__pycache__
 
 # Flask stuff:
 instance/
